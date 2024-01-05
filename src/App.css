@@ -1,0 +1,52 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background-image: url(./img/r2.jpg);
+}
+
+#root {
+
+  max-width: 375px;
+  height: 100%;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.FISH {
+  font-size: 30px;
+  background-color: aliceblue;
+  font-weight: 800;
+  color: blue;
+  padding: 30px 20px;
+  width: 375px;
+
+}
+
+#Telegram,
+#Telegram_Kanal,
+#Linkden {
+  width: 90%;
+  margin: 0 auto;
+  background-color: rgb(74, 113, 231);
+  border-radius: 15%;
+  padding: 10px;
+  margin: 20px 0;
+}
+
+#Telegram h2,
+#Telegram_Kanal h2,
+#Linkden h2{
+ color: aliceblue;
+ font-weight: 800;
+}
+
+h3{
+  color: aliceblue;
+}
