@@ -15,7 +15,7 @@ function App() {
 
        <div id="Telegram_Kanal">
           <h2>Telegram Kanal.</h2>
-          <h3>Link: <a href="t.me/frontend_bmats">KanalLink</a></h3>
+          <h3>Link: <a href="https://t.me/frontend_bmats">KanalLink</a></h3>
        </div>
 
        <div id="Linkden">
